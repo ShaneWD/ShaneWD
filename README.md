@@ -1,6 +1,6 @@
 ### Hi there 👋, ShaneWD
 #### I am currently trying to perfect programming
-![I am currently trying to perfect programming](https://github.com/ShaneWD/ShaneWD/blob/main/banner%20(thin)(1).png)
+![I am currently trying to perfect programming](https://github.com/ShaneWD/ShaneWD/blob/main/banner(thin)(cropped).png)
 
 My main programming language is Python. I am currently working on perfecting SQL, as well as, Django. One of my other hobbies is creating logos. I specialize in minimalist logos in SVG format. 
 
