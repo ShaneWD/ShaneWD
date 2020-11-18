@@ -24,4 +24,6 @@ My main programming language is Python. I am currently working on perfecting SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShaneWD)](https://github.com/ryo-ma/github-profile-trophy)
 
+## My statistics
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneWD&show_icons=true)  
