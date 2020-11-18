@@ -11,11 +11,13 @@ Skills: Python / SQL
 
 ## Project Show Off: Collaboriting Automation for Unreal Engine 4
 <image src= "https://github.com/ShaneWD/ShaneWD/blob/main/UE4_Automation-GIF.gif" width = 800>
+
 * For this project, I made collaborating with other devs in Unreal Engine a lot easier. 
 * It uses Git, Github, Python, Unreal Engine 4, and Pycharm. 
 * The program can automatically detect changes, and push it to a GitHub repository.
 * For the last part, it checks if there was any changes to the GitHub respo and if so, pulls the changes to the local directory.
 * Since it can automatically commit, push and pull, it is very benefitial for colaboriting with one or more people.
+* It is not limited to Unreal Engine 
   
 ## My Socials
 
