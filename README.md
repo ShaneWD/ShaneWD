@@ -20,6 +20,7 @@ My main programming language is Python. I am currently working on perfecting SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShaneWD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dsi_Shane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCfRjte3cG1e9YI_cce_0oPQ)  
 
+## My Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShaneWD)](https://github.com/ryo-ma/github-profile-trophy)
 
