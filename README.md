@@ -7,7 +7,7 @@ My main programming language is Python. I am currently working on perfecting SQL
 * 🖼 Vector Logos
 
 ## Project Show Off: Automating Collaborition for Unreal Engine 4
-<image src= "https://github.com/ShaneWD/ShaneWD/blob/main/UE4_Automation-GIF.gif" width = 800>
+<image src= "https://github.com/ShaneWD/ShaneWD/blob/main/CMD_UE4_Automation_Trim-GIF.gif" width = 800>
 
 * For this project, I made collaborating with other devs in Unreal Engine a lot easier. 
 * It uses Git, Github, Python, Unreal Engine 4, and Pycharm. 
