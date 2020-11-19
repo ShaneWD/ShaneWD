@@ -10,7 +10,7 @@ My main programming language is Python. I am currently working on perfecting SQL
 <image src= "https://github.com/ShaneWD/ShaneWD/blob/main/CMD_UE4_Automation_Trim-GIF.gif" width = 800>
 
 * For this project, I made collaborating with other devs in Unreal Engine a lot easier. 
-* It uses Git, Github, Python, Unreal Engine 4, and Pycharm. 
+* It uses Git, Github, Python, Unreal Engine 4, and command promt/pycharm. CMD and Pycharm are interchangeable.
 * The program can automatically detect changes, and push it to a GitHub repository.
 * For the last part, it checks if there was any changes to the GitHub respo and if so, pulls the changes to the local directory.
 * Since it can automatically commit, push and pull, it is very benefitial for colaboriting with one or more people.
