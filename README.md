@@ -6,16 +6,17 @@ My main programming language is Python. I am currently working on perfecting SQL
 * 💻 Python, SQL
 * 🖼 Vector Logos
 
-## Project Show Off: Automating Collaborition for Unreal Engine 4
-<image src= "https://github.com/ShaneWD/ShaneWD/blob/main/CMD_UE4_Automation_Trim-GIF.gif" width = 800>
+## Project Show Off: Password Manager with Python and MySQL
+<image src= "https://github.com/ShaneWD/ShaneWD/blob/main/pwd_manager(demo_gif).gif" width = 800>
 
-* For this project, I made collaborating with other devs in Unreal Engine a lot easier. 
-* It uses Git, Github, Python, Unreal Engine 4, and command promt/pycharm. CMD and Pycharm are interchangeable.
-* The program can automatically detect changes, and push it to a GitHub repository.
-* For the last part, it checks if there was any changes to the GitHub respo and if so, pulls the changes to the local directory.
-* Since it can automatically commit, push and pull, it is very benefitial for colaboriting with one or more people.
-* It is not limited to Unreal Engine 
-  
+* For this project, the user has to create their a master account. 
+* That master password is used to encrypt passwords that the user wants to store
+* The program uses Bcrypt to encrypt the master password
+* And the program uses the MySQL command "AES_ENCRYPT" to encrypt the secondary passwords 
+* I added features where both types of encryptions uses salt
+* Link to project (open source), cick the Python icon. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/ShaneWD/PasswordManager) 
 ## My Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShaneWD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dsi_Shane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCfRjte3cG1e9YI_cce_0oPQ)  
