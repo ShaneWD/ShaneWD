@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ShaneWD/ShaneWD/blob/main/banner(thin)(cropped).png)
 # ShaneWD
-My main programming language is Python. I am currently working on perfecting SQL, as well as, Django. One of my other hobbies is creating logos. I specialize in minimalist logos in SVG format. 
+My main programming language is Python. I am currently working on perfecting Django. One of my other hobbies is creating logos. I specialize in minimalist logos. 
 
 ## Skills and Experience 
 * 💻 Python, SQL
@@ -14,6 +14,7 @@ My main programming language is Python. I am currently working on perfecting SQL
 * The program uses Bcrypt to encrypt the master password
 * And the program uses the MySQL command "AES_ENCRYPT" to encrypt the secondary passwords 
 * I added features where both types of encryptions uses salt
+###### This project helped me improve my knowledge of SQL
 * Link to project (open source), click the Python icon. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/ShaneWD/PasswordManager) 
