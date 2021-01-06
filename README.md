@@ -6,7 +6,7 @@ My main programming language is Python. I am currently working on perfecting Dja
 * 💻 Python, SQL
 * 🖼 Vector Logos
 
-## Project Show Off: Password Manager with Python and MySQL
+## Project Showcase: Password Manager with Python and MySQL
 <image src= "https://github.com/ShaneWD/ShaneWD/blob/main/pwd_manager(demo_gif).gif" width = 800>
 
 * For this project, the user has to create their a master account. 
@@ -14,7 +14,6 @@ My main programming language is Python. I am currently working on perfecting Dja
 * The program uses Bcrypt to encrypt the master password
 * And the program uses the MySQL command "AES_ENCRYPT" to encrypt the secondary passwords 
 * I added features where both types of encryptions uses salt
-###### This project helped me improve my knowledge of SQL
 * Link to project (open source), click the Python icon. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/ShaneWD/PasswordManager) 
