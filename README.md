@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ShaneWD/ShaneWD/blob/main/banner(thin)(cropped).png)
 # ShaneWD
-My main programming language is Python. I am currently working on perfecting Django. One of my other hobbies is creating logos. I specialize in minimalist logos. 
+My main programming language is Python. I am currently working on perfecting Django.
 
 ## Skills and Experience 
 * 💻 Python, SQL
