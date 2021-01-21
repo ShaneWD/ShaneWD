@@ -6,14 +6,14 @@ My main programming language is Python. I am currently working on perfecting Dja
 * 💻 Python, SQL
 * 🖼 Vector Logos
 
-## Project Showcase: Password Manager with Python, Django, HTML< and CSS.
+## Project Showcase: Password Manager with Python, Django, HTML, and CSS.
 <image src= "https://github.com/ShaneWD/PasswordManagerWebsite/blob/master/demo.gif" width = 800>
 
 * A master account is used to encrypt and decrypt secondary account passwords 
 * Master password is scured with PBKDF2 algorithm with a SHA256 hash
 * Secondary accounts passwords are encrypted (and decrypted) twice 
 * Raw plain-text passwords are **never** stored 
-* Link to project (open source), click the green & black icon:
+* Link to project (open source), click the **green** & **black** icon:
 
 [<img src='https://github.com/ShaneWD/PasswordManagerWebsite/blob/master/static/images/logo.png' alt='python' height='40'>](https://github.com/ShaneWD/PasswordManagerWebsite) 
 
