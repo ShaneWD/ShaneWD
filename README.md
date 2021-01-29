@@ -14,7 +14,6 @@ My main programming language is Python. I am currently working on perfecting Dja
 * Secondary accounts passwords are encrypted (and decrypted) twice 
 * Raw plain-text passwords are **never** stored 
 * User has the options to change master password and to delete master account 
-######                       * (This also deletes their secondary accounts)
 * Link to project (open source), click the **green** & **black** icon:
 
 [<img src='https://github.com/ShaneWD/PasswordManagerWebsite/blob/master/static/images/logo.png' target = "_blank" alt='' height='40'>](https://github.com/ShaneWD/PasswordManagerWebsite) 
