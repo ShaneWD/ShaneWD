@@ -2,9 +2,12 @@
 # ShaneWD
 My main programming language is Python. I am currently working on perfecting Django.
 
-## Skills and Experience 
-* 💻 Python, SQL
-* 🖼 Vector Logos
+## Skills
+* 💻 Python
+* SQL
+* Git & GitHub
+* Django 
+* HTML & CSS
 
 ## Project Showcase: Password Manager with Python, Django, HTML, and CSS:
 <image src= "https://github.com/ShaneWD/PasswordManagerWebsite/blob/master/demo.gif" width = 800>
