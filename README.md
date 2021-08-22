@@ -10,7 +10,7 @@ My main programming language is Python. I am currently working on perfecting Dja
 * HTML & CSS
 
 ## Project Showcase: Password Manager with Python, Django, HTML, and CSS:
-<image src= "https://github.com/ShaneWD/PasswordManagerWebsite/blob/master/demo.gif" width = 800>
+<image src= "https://user-images.githubusercontent.com/70982928/130323803-c30e46d0-e6c2-409a-a996-41fab5698c5d.gif" width = 800>
 
 * A master account is used to encrypt and decrypt secondary account passwords 
 * Master password is scured with PBKDF2 algorithm with a SHA256 hash
